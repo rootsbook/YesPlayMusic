@@ -1,8 +1,8 @@
 {
-  “重写”：[
+  "rewrites": [
     {
-      “源”：“/api/：匹配*”，
-      “目的地”：“http://1.tandezhang.com/:match*”
+      "source": "/api/:match*",
+      "destination": "http://1.tandezhang.com/:match*"
     }
   ]
 }
