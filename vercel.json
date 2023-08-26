@@ -1,8 +1,8 @@
 {
-  "rewrites": [
+  “重写”：[
     {
-      "source": "/api/:match*",
-      "destination": "https://your-netease-api.example.com/:match*"
+      “源”：“/api/：匹配*”，
+      “目的地”：“http://1.tandezhang.com/:match*”
     }
   ]
 }
